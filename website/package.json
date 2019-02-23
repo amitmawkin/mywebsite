@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "docusaurus": "^1.7.2"
+  },
+  "dependencies": {
+    "netlify-identity-widget": "^1.5.2"
   }
 }
